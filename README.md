@@ -6,4 +6,4 @@ Each deleted branch will also do a check if it's fully merged to current branch.
 
 Current branch will not be listed.
 
-Just use the following action: VCS > Git > Delete Old Branches.
+Just use the following action: VCS > Git > Delete Old Branches. OR use double shift + search for "Delete Old Branches".
